@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2.2 (Python 3.13.3 on win32)" generated="2025-05-06T15:57:26.242801" rpa="false" schemaversion="5">
+<suite id="s1" name="TestCases" source="C:\Users\Hanane.BEN-AZIZE\Downloads\robotTests\TestCases">
+<suite id="s1-s1" name="Suites" source="C:\Users\Hanane.BEN-AZIZE\Downloads\robotTests\TestCases\suites">
+<suite id="s1-s1-s1" name="firstTestFile" source="C:\Users\Hanane.BEN-AZIZE\Downloads\robotTests\TestCases\suites\firstTestFile.robot">
+<test id="s1-s1-s1-t1" name="First Test Case" line="4">
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-05-06T15:57:26.294634" level="INFO">Hello world</msg>
+<arg>Hello world</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-05-06T15:57:26.294467" elapsed="0.000247"/>
+</kw>
+<status status="PASS" start="2025-05-06T15:57:26.293553" elapsed="0.001494"/>
+</test>
+<status status="PASS" start="2025-05-06T15:57:26.291383" elapsed="0.004746"/>
+</suite>
+<status status="PASS" start="2025-05-06T15:57:26.289277" elapsed="0.008078"/>
+</suite>
+<status status="PASS" start="2025-05-06T15:57:26.246246" elapsed="0.052281"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="TestCases" id="s1" pass="1" fail="0" skip="0">TestCases</stat>
+<stat name="Suites" id="s1-s1" pass="1" fail="0" skip="0">TestCases.Suites</stat>
+<stat name="firstTestFile" id="s1-s1-s1" pass="1" fail="0" skip="0">TestCases.Suites.firstTestFile</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
