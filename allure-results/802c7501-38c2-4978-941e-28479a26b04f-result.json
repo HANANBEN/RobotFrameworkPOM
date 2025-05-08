@@ -1,1 +1,38 @@
-{"name": "First Test Case", "status": "passed", "statusDetails": {}, "steps": [{"name": "BuiltIn.Log", "status": "passed", "statusDetails": {}, "attachments": [{"name": "Keyword Log", "source": "95627abf-86ae-4d5b-bb86-21a80e91bcfe-attachment.html", "type": "text/html"}], "parameters": [{"name": "arg1", "value": "Hello world"}], "start": 1746539654082, "stop": 1746539654085}], "start": 1746539654081, "stop": 1746539654086, "uuid": "2b3e911c-550c-4875-8b29-6b4847a3027f", "historyId": "e1b622deca562daed2028e750b3d9ea7", "fullName": "Suites.firstTestFile.First Test Case", "labels": [{"name": "suite", "value": "Suites"}, {"name": "subSuite", "value": "firstTestFile"}, {"name": "framework", "value": "robotframework"}, {"name": "language", "value": "cpython3"}, {"name": "host", "value": "AK48639"}, {"name": "thread", "value": "default-96ff7a00-9858-45bb-b600-05a05937fa8e"}]}
+{
+  "name": "First Test Case",
+  "status": "passed",
+  "statusDetails": {},
+  "steps": [
+    {
+      "name": "BuiltIn.Log",
+      "status": "passed",
+      "statusDetails": {},
+      "attachments": [
+        {
+          "name": "Keyword Log",
+          "source": "95627abf-86ae-4d5b-bb86-21a80e91bcfe-attachment.html",
+          "type": "text/html"
+        }
+      ],
+      "parameters": [{ "name": "arg1", "value": "Hello world" }],
+      "start": 1746539654082,
+      "stop": 1746539654085
+    }
+  ],
+  "start": 1746539654081,
+  "stop": 1746539654086,
+  "uuid": "2b3e911c-550c-4875-8b29-6b4847a3027f",
+  "historyId": "e1b622deca562daed2028e750b3d9ea7",
+  "fullName": "Suites.firstTestFile.First Test Case",
+  "labels": [
+    { "name": "suite", "value": "Suites" },
+    { "name": "subSuite", "value": "firstTestFile" },
+    { "name": "framework", "value": "robotframework" },
+    { "name": "language", "value": "cpython3" },
+    { "name": "host", "value": "AK48639" },
+    {
+      "name": "thread",
+      "value": "default-96ff7a00-9858-45bb-b600-05a05937fa8e"
+    }
+  ]
+}
